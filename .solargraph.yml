@@ -15,6 +15,4 @@ require:
 - activerecord
 - activestorage
 - activesupport
-reporters:
-- rubocop
 max_files: 8000
