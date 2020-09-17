@@ -13,4 +13,4 @@ yard; yard gems;solargraph bundle;rails solargraph:update_model_definitions
 * Tips
 - Execute the last command of the installation once a week/month to update the definitions
 - Put this command on an alias in ~/.bashrc or ~/.zshrc like:
-  alias update_sg='yard; yard gems;solargraph bundle;rails solargraph:update_model_definitions'
+  alias update_sg='yard; yard gems;solargraph bundle;rails solargraph:update_model_definitions'; solargraph scan
